@@ -1,0 +1,9 @@
+2026-05-10 13:50:56,745 | INFO | pipeline | === STAGE: INGEST ===
+2026-05-10 13:50:57,405 | INFO | pipeline | Ingesting MoneyPuck shots: 2022
+2026-05-10 13:50:57,405 | INFO | utils.data_loader | Downloading MoneyPuck shots: https://moneypuck.com/moneypuck/playerData/careers/gameByGame/shots_2022.csv
+2026-05-10 13:52:56,836 | INFO | pipeline | === STAGE: INGEST ===
+2026-05-10 13:52:56,956 | INFO | pipeline | Ingesting MoneyPuck shots: 2022
+2026-05-10 13:52:56,956 | INFO | utils.data_loader | Downloading MoneyPuck shots: https://moneypuck.com/moneypuck/playerData/careers/gameByGame/shots_2022.csv
+2026-05-10 13:53:49,051 | INFO | pipeline | === STAGE: INGEST ===
+2026-05-10 13:53:49,172 | INFO | pipeline | Ingesting MoneyPuck shots: 2022
+2026-05-10 13:53:49,172 | INFO | utils.data_loader | Downloading MoneyPuck shots: https://moneypuck.com/moneypuck/playerData/careers/gameByGame/shots_20222023.csv
