@@ -19,6 +19,9 @@ nhl-analytics/
 │   ├── xg_model.py       # Expected goals (XGBoost + logistic baseline)
 │   ├── zone_entry.py     # Zone entry success classifier
 │   └── sequence_model.py # LSTM scoring chance predictor
+|
+├── nhl-frontend/         # Frontend folder handling the dashboard displays
+|
 ├── utils/
 │   ├── data_loader.py    # NHL API + MoneyPuck ingestion
 │   ├── preprocessing.py  # Cleaning, encoding, normalization
