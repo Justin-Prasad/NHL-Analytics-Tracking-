@@ -3,7 +3,7 @@
 
 A full-stack hockey analytics system that predicts scoring probability, offensive zone entry success, and player movement patterns using NHL play-by-play and tracking data.
 
-**UPDATE: MONEYPUCK DATA MUST BE LICENSED SO THE PROJECT WON'T WORK COMPLETELY AS INTENDED**
+**UPDATE: MONEYPUCK DATA MUST BE LICENSED SO THE PROJECT WON'T WORK COMPLETELY AS INTENDED. POSSIBLE WORKAROUND WOULD BE TO DOWNLOAD CSV DATA MYSELF TO PARSE**
 
 ---
 
