@@ -1,4 +1,5 @@
 # NHL Tracking Analytics Platform
+**WIP**
 
 A full-stack hockey analytics system that predicts scoring probability, offensive zone entry success, and player movement patterns using NHL play-by-play and tracking data.
 
@@ -124,10 +125,3 @@ Reports include:
 - Plain-language interpretation of key findings
 
 ---
-
-## Resume Bullets (as built)
-
-- Built predictive models using NHL play-by-play and tracking data to estimate scoring probability and offensive zone entry success
-- Developed spatio-temporal sequence models using bidirectional LSTMs and gradient boosting to analyze player movement and puck possession patterns
-- Automated data ingestion, feature engineering, and model validation pipelines across 3 NHL seasons and 200k+ shot events
-- Produced interactive analytical reports evaluating player decision-making, transition efficiency, and defensive coverage for non-technical hockey operations staff
